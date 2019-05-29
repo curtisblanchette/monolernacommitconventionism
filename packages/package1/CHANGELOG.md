@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/curtisblanchette/monolernacommitconventionism/compare/@4iiz/package1@1.1.1...@4iiz/package1@2.0.0) (2019-05-29)
+
+
+### Features
+
+* **package1:** add breaking change ([8283527](https://github.com/curtisblanchette/monolernacommitconventionism/commit/8283527))
+
+
+### BREAKING CHANGES
+
+* **package1:** your app wont work with this log
+
+
+
+
+
 ## [1.1.1](https://github.com/curtisblanchette/monolernacommitconventionism/compare/@4iiz/package1@1.1.0...@4iiz/package1@1.1.1) (2019-05-29)
 
 
